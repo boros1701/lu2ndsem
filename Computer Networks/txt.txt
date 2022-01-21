@@ -1,1 +1,33 @@
+Good explanation for exam topics is provided in the netacad network course here are some chapter notes to find topic in netacad :
+
+IPv4 (11 chapter)
+
+IPv6 (12 chapter)
+
+Network Sequrity (16 chapter)
+
+Binary and Hehadecimal System (5 Chapter)
+
+Ethernet Switching and Protocol (7 Chpter)
+
+DNS System (15.4 Chapter)
+
+OSI, TCP/IP Model (3.5 Chapter)
+
+TCP (14.2 Chapter)
+
+UDP (14.3 Chapter)
+
+Twisted pair cable medium (4.3 Chapter)
+
+Optical fiber cable medium (4.5 Chaper)
+
+Wireless Lans (4.6 Chaper)
+
+Encapsulation decapsulation (3.6 Chaper)
+
+Cisco IOS usage and device configuration (2 Chaper)
+
+Most Popular Application Layer protocols (15 Chaper)
+
 
